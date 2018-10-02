@@ -1,0 +1,7 @@
+Hi {{user}},
+
+Do not to reply to this mail.
+
+
+Thanks,
+Spring Boot!
