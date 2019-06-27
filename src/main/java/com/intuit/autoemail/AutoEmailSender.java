@@ -26,7 +26,7 @@ public class AutoEmailSender implements ApplicationRunner {
     private void sendTextMail() {
 
         String from = "cmhegde@gmail.com";
-        String to = "cmhegde@gmail.com";
+        String to = "charitha_hegde@intuit.com";
         String subject = "Email Spring Boot Application ";
 
         EmailTemplate template = new EmailTemplate("template-1.txt");
@@ -45,8 +45,8 @@ public class AutoEmailSender implements ApplicationRunner {
     private void sendHtmltMail() {
 
 
-        String from = "cmhegde@gmail.com";
-        String to = "cmhegde@gmail.com";
+        String from = "xxxx.com";
+        String to = "xxxx.com";
         String subject = "Email Spring Boot Application ";
 
         EmailTemplate template = new EmailTemplate("template-2.html");
